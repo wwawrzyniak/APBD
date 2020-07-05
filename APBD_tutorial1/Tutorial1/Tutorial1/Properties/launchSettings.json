@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Tutorial1": {
+      "commandName": "Project",
+      "commandLineArgs": "http://www.x-kom.com"
+    }
+  }
+}
