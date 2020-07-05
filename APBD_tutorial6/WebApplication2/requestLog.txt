@@ -1,5 +1,0 @@
-/weatherforecast/blabla ?blabla2 POST
-{
-"StudyName": "IT",
-"Semester": 1
-}
